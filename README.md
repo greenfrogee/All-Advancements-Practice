@@ -1,11 +1,11 @@
 # All Advancements Practice
-An all-in-one practice map for All Advancements!
+All-in-one practice map for All Advancements!
 
 ## Features:
 - Simple Dynamic Loadouts System
   - Save custom loadouts with ease.
 - Timer / Personal Bests System
-  - Allows for comparison on completions, helping to improve AA techniques.
+  - Compare your completions to each other and beat your fastest times!
 - Trophy Hall
   - Awards given after fast completions of gamemodes! Can you collect them all?
 - In-game guides
