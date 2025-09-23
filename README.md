@@ -40,6 +40,6 @@ All-in-one practice map for All Advancements!
   - In that folder, right click `All Advancements Practice x.x.x.zip` and select `Extract All`
   - After it finishes extracting, open the newly created folder, and drag the folder named `All Advancements Practice x.x.x` into the saves folder
   - Once finished, the zip folder and empty folder can be deleted
-  - *If the world isn't showing up in game, double check that the folder structure is `All Advancements Practice/saves` and NOT `All Advancements Practice/All Advancements Practice/saves`.*
+  - *If the world isn't showing up in game, double check that the folder structure is `All Advancements Practice/` and NOT `All Advancements Practice/All Advancements Practice/`.*
 
 
