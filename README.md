@@ -1,7 +1,7 @@
 # All Advancements Practice
 All-in-one practice map for All Advancements!
 
-## Features:
+## Features
 - Simple Dynamic Loadouts System
   - Save custom loadouts with ease.
 - Timer / Personal Bests System
@@ -11,7 +11,7 @@ All-in-one practice map for All Advancements!
 - In-game guides
   - Useful for beginners learning All Advancements!
     
-## Gamemodes:
+## Gamemodes
   - How Did We Get Here
     - Practice completing the hardest advancement.
   - Arbalistic 
@@ -35,7 +35,7 @@ All-in-one practice map for All Advancements!
   - Crafting
     - Speed craft various items used thoughout the run!
 
-  ## Installation:
+  ## Installation
   - Download the folder and move it to your .minecraft/saves folder. If you don't know where this is located, enter `%appdata%` in the search bar, hit enter, open the folder `.minecraft`, and then open the folder `saves`
   - In that folder, right click `All Advancements Practice x.x.x.zip` and select `Extract All`
   - After it finishes extracting, open the newly created folder, and drag the folder named `All Advancements Practice x.x.x` into the saves folder
