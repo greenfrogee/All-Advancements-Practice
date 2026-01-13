@@ -19,7 +19,7 @@ All-in-one practice map for All Advancements!
   - This Boat Has Legs
     - Land on a Strider in lava!
   - Potion Brewing
-    - Learn to brew all 8 potions for HDWGH! Includes an in-game guide.
+    - Learn to brew all 8 potions for HDWGH!
   - Beacon Building
     - Construct a beacon as fast a possible!
   - Uneasy Alliance
